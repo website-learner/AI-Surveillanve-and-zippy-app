@@ -1,0 +1,16 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+img{
+    width: 280px;
+    height:280px;
+          padding: 5px;
+          border: 8px solid #060000;
+          
+  }
